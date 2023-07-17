@@ -1,0 +1,28 @@
+Array
+(
+    [Request Method] => POST
+    [Request Params] => Array
+        (
+            [1] => phpinfo();
+        )
+
+)
+/var/www/html/e1.phpArray
+(
+    [Request Method] => POST
+    [Request Params] => Array
+        (
+            [1] => phpinfo();
+        )
+
+)
+/var/www/html/e1.phpArray
+(
+    [Request Method] => POST
+    [Request Params] => Array
+        (
+            [1] => phpinfo();
+        )
+
+)
+/var/www/html/e1.php
